@@ -1,4 +1,4 @@
- # Welcome to ML_kart :raising_hand:
+ # Welcome to MLpoint :raising_hand:
  
 This repository belongs to Shivani Khare.
 
